@@ -1,0 +1,12 @@
+# biweekly-report-5-skubalon3
+
+The theme of our biweekly report was applications of GANs to our own respective research projects. As a group, we were able to explore different and wide applications of GANs as related to increasing the quality of historic data to improve solar flare prediction and to the generation of solar/wind data for the improvement of renewable power grids. We also found a cool application of styleGANs that we followed a tutorial for to create a useful generative tool. Finally, we did a team collaborative deep dive into the "insides" of GANs in a thurough piece by piece component breakdown of GANs mechanics.
+
+* **Allison_FlarePrediction:** I decided to use this biweekly report as an opportunity to learn more about GAN evaluation metrics and run some preliminary analysis on some of the GAN models that I have trained on solar magnetogram data using a GPU available through my lab group. The goal of my research is to double the size of the dataset currently used for solar flare prediction by translating a historic dataset to the quality of the current dataset. In this expository style notebook, I summarize what I learned and compare a variety of evaluation metrics on super-resolved solar magnetogram data.
+
+
+* **Renewables Research:** In application to Simon and Jackson's research to renewable power systems, this notebook follows a paper (cited in the notebook) that looks to solve the problem of the lack of solar and wind generation data for applications to forecasting, optimization, control, etc on smart renewable power grids. The GANs models generate fake timeseries of solar and wind generation that can be used to solve this problem! 
+
+* **Style GANs:** Using openAI's CLIP for semantic capabilities, we have developed a model to interpret natural language prompts and adapt a generator to stylize an image dependent on whatever domain we have requested. In the example we finalized the notebook on, we take in image data and request that we "catoonize" the people in the photos. Then we use this trained generator to create our own cartoon characters! 
+
+* **Investigating_GAN_Generator_Structure:** In this notebook, our goal is to take a closer look inside the GAN generator to see how it works!  The main library used to do this investigation was netdissect.  We then compare the innerworkings of the generator in GAN to a separate semantic segmentation model to investigate the similarities.
