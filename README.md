@@ -1,4 +1,4 @@
-# Pytorch-NLP-Projects
+# Pytorch-NLP-Projects CHANGE
 This repository contains natural language processing projects I have done using Pytorch.  For many of these projects I have collaborated with Simon Julien and Sabrina Liu to create the Jupyter Notebooks.  Each folder has an additional README explaining (in detail) the jupyter notebooks and topics that are covered.
 
 Below is a video containing clips from projects across my entire github portfolio (I am still actively working to create a video specific to this repository)
