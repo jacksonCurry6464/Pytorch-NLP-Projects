@@ -21,7 +21,9 @@ These images show magnetograms, or images of the magnetic field of the sun. The 
 ![image](https://user-images.githubusercontent.com/77595308/163074292-b1eee767-60df-4d2f-a66c-cc1de225765e.png)
 
 ### 5. SentimentAnalysisRNN
+![image](https://user-images.githubusercontent.com/77595308/163074988-4f1a727c-2df8-4626-9db1-fa4e8f69eef1.png)
+![image](https://user-images.githubusercontent.com/77595308/163075041-884c0f23-5a55-4927-9b58-16bf7376f01e.png)
 
 ### 6. fewShotLanguageModelling
+![image](https://user-images.githubusercontent.com/77595308/163075256-2e027c25-37ce-4159-a58d-c62baa0c6021.png)
 
-https://user-images.githubusercontent.com/77595308/154470807-f25b0f42-ab81-4b55-95b0-e3d4041fc7ec.mp4
